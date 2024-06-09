@@ -37,7 +37,7 @@ web-crawler/
 1. Clone repositori ini ke lokal Anda:
 
    ```bash
-   git clone https://github.com/username/web-crawler.git
+   git clone https://github.com/imhunterand/web-crawler.git
    cd web-crawler
    pip install -r requirements.txt
    python src/crawler.py
