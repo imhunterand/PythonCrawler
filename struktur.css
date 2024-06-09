@@ -1,0 +1,14 @@
+web-crawler/
+│
+├── src/
+│   ├── crawler.py
+│   ├── parser.py
+│   ├── storage.py
+│   └── utils.py
+├── tests/
+│   ├── test_crawler.py
+│   ├── test_parser.py
+│   ├── test_storage.py
+│   └── test_utils.py
+├── requirements.txt
+└── README.md
