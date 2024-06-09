@@ -38,7 +38,7 @@ web-crawler/
 
    ```bash
    git clone https://github.com/imhunterand/web-crawler.git
-   cd web-crawler
+   cd PythonCrawler
    pip install -r requirements.txt
    python src/crawler.py
    python -m unittest discover tests
